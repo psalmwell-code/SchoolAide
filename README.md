@@ -11,7 +11,7 @@ Power query was used to transform the data sets by promoting headers, deleting e
 A new column name was also given to make the columns easier to work with.
 # Data visualization
 ---
-![Dashboard](
+![Dashboard](https://github.com/psalmwell-code/SchoolAide/blob/main/school%20aide.jpg)
 ---
 # Insights and Recommendations
 Averagely, more than 90% of the responses use the internet for study aids. This shows that the schoolaide product can be internet based.
